@@ -112,10 +112,6 @@ const App = () => {
       return matchesQuery && matchesDecisionMakers && matchesHeadOfData
     })
 
-    if (sortBy === 'default') {
-      return filtered
-    }
-
     return filtered
   }, [query, minDecisionMakers, hasHeadOfData])
 
