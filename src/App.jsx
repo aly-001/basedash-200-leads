@@ -89,7 +89,6 @@ const App = () => {
   const [query, setQuery] = useState('')
   const [minDecisionMakers, setMinDecisionMakers] = useState('0')
   const [hasHeadOfData, setHasHeadOfData] = useState(false)
-  const [sortBy, setSortBy] = useState('company')
   const [expandedLeads, setExpandedLeads] = useState({})
 
   const totalLeads = leads.length
@@ -113,18 +112,12 @@ const App = () => {
       return matchesQuery && matchesDecisionMakers && matchesHeadOfData
     })
 
-    const sorted = [...filtered].sort((a, b) => {
-      if (sortBy === 'decision-makers') {
-        return (b.decision_makers?.length ?? 0) - (a.decision_makers?.length ?? 0)
-      }
-      if (sortBy === 'head-of-data') {
-        return (b.head_of_data ? 1 : 0) - (a.head_of_data ? 1 : 0)
-      }
-      return a.company.localeCompare(b.company)
-    })
+    if (sortBy === 'default') {
+      return filtered
+    }
 
-    return sorted
-  }, [query, minDecisionMakers, hasHeadOfData, sortBy])
+    return filtered
+  }, [query, minDecisionMakers, hasHeadOfData])
 
   const onExportFiltered = () => {
     const dateStamp = new Date().toISOString().slice(0, 10)
@@ -140,7 +133,6 @@ const App = () => {
     setQuery('')
     setMinDecisionMakers('0')
     setHasHeadOfData(false)
-    setSortBy('company')
     setExpandedLeads({})
   }
 
@@ -176,7 +168,7 @@ const App = () => {
           </div>
         </header>
 
-        <section className="grid gap-4 rounded-[28px] border border-white/70 bg-white/75 p-6 shadow-halo lg:grid-cols-[1.2fr_0.9fr_0.9fr_0.7fr_auto]">
+        <section className="grid gap-4 rounded-[28px] border border-white/70 bg-white/75 p-6 shadow-halo lg:grid-cols-[1.3fr_0.9fr_0.7fr_auto]">
           <div className="flex flex-col gap-2">
             <label className="text-xs font-semibold uppercase tracking-[0.25em] text-slate-500">
               Search
@@ -202,20 +194,6 @@ const App = () => {
               <option value="2">2+</option>
               <option value="3">3+</option>
               <option value="4">4+</option>
-            </select>
-          </div>
-          <div className="flex flex-col gap-2">
-            <label className="text-xs font-semibold uppercase tracking-[0.25em] text-slate-500">
-              Sort by
-            </label>
-            <select
-              className="rounded-2xl border border-slate-200/80 bg-white/90 px-4 py-3 text-sm focus:border-slate-400 focus:outline-none"
-              value={sortBy}
-              onChange={(event) => setSortBy(event.target.value)}
-            >
-              <option value="company">Company (A-Z)</option>
-              <option value="decision-makers">Decision makers</option>
-              <option value="head-of-data">Has head of data</option>
             </select>
           </div>
           <div className="flex flex-col gap-2">
