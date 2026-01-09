@@ -150,11 +150,8 @@ const App = () => {
         <header className="rounded-[34px] border border-white/70 bg-white/70 p-8 shadow-glow">
           <div className="flex flex-wrap items-center justify-between gap-6">
             <div>
-              <p className="text-xs font-semibold uppercase tracking-[0.3em] text-slate-400">
+              <h1 className="font-display text-3xl text-ink sm:text-4xl">
                 Leads Atlas
-              </p>
-              <h1 className="mt-3 font-display text-3xl text-ink sm:text-4xl">
-                Lead Intelligence Board
               </h1>
             </div>
             <div className="flex flex-wrap gap-3">
