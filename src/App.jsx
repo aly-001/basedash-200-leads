@@ -10,6 +10,32 @@ const escapeCsv = (value) => {
   return stringValue
 }
 
+const isValidEmail = (email) =>
+  typeof email === 'string' && email.includes('@')
+
+const truncateEmail = (email) => {
+  if (!email) return ''
+  if (email.length <= 24) return email
+  const [name, domain] = email.split('@')
+  if (!domain) return `${email.slice(0, 20)}...`
+  const shortName = name.slice(0, 8)
+  const shortDomain = domain.length > 12 ? `${domain.slice(0, 10)}...` : domain
+  return `${shortName}...@${shortDomain}`
+}
+
+const getDisplayDecisionMakers = (lead) => {
+  const decisionMakers = lead.decision_makers ?? []
+  const headOfData = lead.head_of_data ? [{ ...lead.head_of_data }] : []
+  const combined = [...decisionMakers, ...headOfData]
+  const seen = new Set()
+  return combined.filter((dm) => {
+    const key = `${dm.name}-${dm.role}-${dm.linkedin_url || ''}`
+    if (seen.has(key)) return false
+    seen.add(key)
+    return true
+  })
+}
+
 const buildCsv = (rows) => {
   const headers = [
     'company',
@@ -17,13 +43,15 @@ const buildCsv = (rows) => {
     'decision_makers',
     'decision_maker_roles',
     'decision_maker_linkedins',
+    'decision_maker_emails',
     'head_of_data_name',
     'head_of_data_role',
     'head_of_data_linkedin',
+    'head_of_data_email',
   ]
 
   const body = rows.map((lead) => {
-    const decisionMakers = lead.decision_makers ?? []
+    const decisionMakers = getDisplayDecisionMakers(lead)
     const headOfData = lead.head_of_data ?? null
 
     const decisionMakerNames = decisionMakers.map((dm) => dm.name).join(' | ')
@@ -31,6 +59,13 @@ const buildCsv = (rows) => {
     const decisionMakerLinkedins = decisionMakers
       .map((dm) => dm.linkedin_url)
       .join(' | ')
+    const decisionMakerEmails = decisionMakers
+      .map((dm) => (isValidEmail(dm.email) ? dm.email : ''))
+      .filter(Boolean)
+      .join(' | ')
+    const headOfDataEmail = isValidEmail(headOfData?.email)
+      ? headOfData.email
+      : ''
 
     return [
       lead.company,
@@ -38,9 +73,11 @@ const buildCsv = (rows) => {
       decisionMakerNames,
       decisionMakerRoles,
       decisionMakerLinkedins,
+      decisionMakerEmails,
       headOfData?.name ?? '',
       headOfData?.role ?? '',
       headOfData?.linkedin_url ?? '',
+      headOfDataEmail,
     ]
       .map(escapeCsv)
       .join(',')
@@ -61,7 +98,7 @@ const downloadCsv = (rows, label) => {
 }
 
 const getSearchHaystack = (lead) => {
-  const decisionMakers = lead.decision_makers ?? []
+  const decisionMakers = getDisplayDecisionMakers(lead)
   const headOfData = lead.head_of_data ?? null
 
   return [
@@ -69,8 +106,12 @@ const getSearchHaystack = (lead) => {
     lead.url,
     decisionMakers.map((dm) => dm.name).join(' '),
     decisionMakers.map((dm) => dm.role).join(' '),
+    decisionMakers
+      .map((dm) => (isValidEmail(dm.email) ? dm.email : ''))
+      .join(' '),
     headOfData?.name ?? '',
     headOfData?.role ?? '',
+    isValidEmail(headOfData?.email) ? headOfData.email : '',
   ]
     .join(' ')
     .toLowerCase()
@@ -90,10 +131,11 @@ const App = () => {
   const [minDecisionMakers, setMinDecisionMakers] = useState('0')
   const [hasHeadOfData, setHasHeadOfData] = useState(false)
   const [expandedLeads, setExpandedLeads] = useState({})
+  const [copiedEmail, setCopiedEmail] = useState('')
 
   const totalLeads = leads.length
   const decisionMakerTotal = leads.reduce(
-    (count, lead) => count + (lead.decision_makers?.length ?? 0),
+    (count, lead) => count + getDisplayDecisionMakers(lead).length,
     0,
   )
   const headOfDataCount = leads.filter((lead) => lead.head_of_data).length
@@ -130,6 +172,29 @@ const App = () => {
     setMinDecisionMakers('0')
     setHasHeadOfData(false)
     setExpandedLeads({})
+  }
+
+  const onCopyEmail = async (email) => {
+    if (!email) return
+    try {
+      if (navigator.clipboard?.writeText) {
+        await navigator.clipboard.writeText(email)
+      } else {
+        const textarea = document.createElement('textarea')
+        textarea.value = email
+        textarea.style.position = 'fixed'
+        textarea.style.opacity = '0'
+        document.body.appendChild(textarea)
+        textarea.focus()
+        textarea.select()
+        document.execCommand('copy')
+        document.body.removeChild(textarea)
+      }
+      setCopiedEmail(email)
+      setTimeout(() => setCopiedEmail(''), 1600)
+    } catch (error) {
+      console.error('Copy failed', error)
+    }
   }
 
   return (
@@ -239,13 +304,12 @@ const App = () => {
               ? `https://${urlValue.replace(/^https?:\/\//, '')}`
               : ''
             const leadKey = `${lead.company}-${index}`
-            const decisionMakers = lead.decision_makers ?? []
+            const decisionMakers = getDisplayDecisionMakers(lead)
             const hasManyDecisionMakers = decisionMakers.length > 3
             const isExpanded = expandedLeads[leadKey]
             const visibleDecisionMakers = isExpanded
               ? decisionMakers
               : decisionMakers.slice(0, 3)
-            const headOfData = lead.head_of_data ?? null
             return (
               <article
                 key={leadKey}
@@ -281,11 +345,11 @@ const App = () => {
                   <p className="text-xs font-semibold uppercase tracking-[0.25em] text-slate-400">
                     Decision makers
                   </p>
-                  {decisionMakers.length === 0 && !headOfData ? (
-                    <p className="mt-2 text-sm text-slate-600">
-                      No decision makers listed
-                    </p>
-                  ) : (
+                    {decisionMakers.length === 0 ? (
+                      <p className="mt-2 text-sm text-slate-600">
+                        No decision makers listed
+                      </p>
+                    ) : (
                     <div className="mt-3 grid gap-3 sm:grid-cols-2">
                       {visibleDecisionMakers.map((dm) => (
                         <div
@@ -308,31 +372,29 @@ const App = () => {
                               LinkedIn
                             </a>
                           )}
-                        </div>
-                      ))}
-                      {headOfData && (
-                        <div className="rounded-2xl border border-slate-200 bg-white p-3 shadow-sm">
-                          <div className="text-[10px] font-semibold uppercase tracking-[0.25em] text-slate-400">
-                            Head of data
-                          </div>
-                          <div className="mt-1 text-sm font-semibold text-ink">
-                            {headOfData.name}
-                          </div>
-                          <div className="mt-1 text-xs text-slate-500">
-                            {headOfData.role}
-                          </div>
-                          {headOfData.linkedin_url && (
-                            <a
-                              className="mt-2 inline-flex text-xs font-semibold text-slate-600 transition hover:text-ink"
-                              href={headOfData.linkedin_url}
-                              target="_blank"
-                              rel="noreferrer"
-                            >
-                              LinkedIn
-                            </a>
+                          {isValidEmail(dm.email) && (
+                            <div className="mt-2 flex flex-wrap items-center gap-2">
+                              <span className="max-w-[160px] truncate rounded-full border border-slate-200 bg-slate-50 px-3 py-1 text-[11px] font-semibold text-slate-600">
+                                {truncateEmail(dm.email)}
+                              </span>
+                              <div className="flex items-center gap-2">
+                                <a
+                                  className="rounded-full border border-slate-200 bg-white px-3 py-1 text-[11px] font-semibold text-slate-600 transition hover:text-ink"
+                                  href={`mailto:${dm.email}`}
+                                >
+                                  View
+                                </a>
+                                <button
+                                  className="rounded-full border border-slate-200 bg-white px-3 py-1 text-[11px] font-semibold text-slate-600 transition hover:text-ink"
+                                  onClick={() => onCopyEmail(dm.email)}
+                                >
+                                  {copiedEmail === dm.email ? 'Copied' : 'Copy'}
+                                </button>
+                              </div>
+                            </div>
                           )}
                         </div>
-                      )}
+                      ))}
                     </div>
                   )}
                   {hasManyDecisionMakers && (
