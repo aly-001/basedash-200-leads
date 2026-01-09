@@ -1,0 +1,3514 @@
+[
+  {
+    "company": "Authentic Insurance Services",
+    "url": "www.authenticinsurance.com",
+    "decision_makers": [
+      {
+        "name": "Cole Riccardi",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/cole-riccardi-63a243127"
+      },
+      {
+        "name": "Saravana Kumar",
+        "role": "CTO",
+        "linkedin_url": "https://www.linkedin.com/in/saravsak"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "MedCrypt Inc.",
+    "url": "www.medcrypt.com",
+    "decision_makers": [
+      {
+        "name": "Mike Kijewski",
+        "role": "Co-founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/mkijewski"
+      },
+      {
+        "name": "Eric Pancoast",
+        "role": "Co-founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/epancoast"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Protein Dynamic Solutions",
+    "url": "www.pdsbio.com",
+    "decision_makers": [
+      {
+        "name": "Jos\u00e9 E. Casellas",
+        "role": "CEO & CFO",
+        "linkedin_url": "https://pr.linkedin.com/in/jose-e-casellas-5032b2b"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Thoroughcare, Inc.",
+    "url": "www.thoroughcare.net",
+    "decision_makers": [
+      {
+        "name": "Dan Godla",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/dgodla"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Topanga.io Corp.",
+    "url": "topanga.io",
+    "decision_makers": [
+      {
+        "name": "Page Soul\u00e9 Schult",
+        "role": "CEO",
+        "linkedin_url": "https://www.linkedin.com/in/pageschult"
+      },
+      {
+        "name": "Adam Bailey",
+        "role": "CTO & President",
+        "linkedin_url": "https://www.linkedin.com/in/adam-bailey"
+      }
+    ],
+    "head_of_data": {
+      "name": "Max Richman",
+      "role": "Head of Data and Financial Analysis",
+      "linkedin_url": "https://www.linkedin.com/in/maxrichman"
+    }
+  },
+  {
+    "company": "Voom Medical Devices",
+    "url": "www.voommedicaldevices.com",
+    "decision_makers": [
+      {
+        "name": "Dr. Neal Blitz, DPM",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/drnealblitz"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "seqWell Inc.",
+    "url": "seqwell.com",
+    "decision_makers": [
+      {
+        "name": "Dan Calvo",
+        "role": "President & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/dan-calvo-6a8b7a6"
+      },
+      {
+        "name": "Jack Leonard",
+        "role": "Co-Founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/genomicssyntheticbiologyboston"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "MD Ally Technologies, Inc.",
+    "url": "www.mdally.com",
+    "decision_makers": [
+      {
+        "name": "Shanel Fields",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/shanelfields"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Hampr, Inc.",
+    "url": "tryhampr.com",
+    "decision_makers": [
+      {
+        "name": "Laurel Hess",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/laurel-hess"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Adwerx, Inc.",
+    "url": "www.adwerx.com",
+    "decision_makers": [
+      {
+        "name": "Dan London",
+        "role": "Chief Executive Officer",
+        "linkedin_url": "https://www.linkedin.com/in/danieljlondon"
+      },
+      {
+        "name": "Reed Emmons",
+        "role": "Chief Technology Officer",
+        "linkedin_url": "https://www.linkedin.com/in/reedemmons"
+      },
+      {
+        "name": "Jed Carlson",
+        "role": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/jedcarlson"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Gemelli Biotech",
+    "url": "gemellibiotech.com",
+    "decision_makers": [
+      {
+        "name": "Ritesh Agarwal",
+        "role": "Chief Executive Officer & Director",
+        "linkedin_url": "https://www.linkedin.com/in/riteshagarwalca"
+      },
+      {
+        "name": "John A. Neczesny",
+        "role": "President & Director",
+        "linkedin_url": null
+      },
+      {
+        "name": "Matt Mitcho",
+        "role": "Co-founder",
+        "linkedin_url": "https://www.linkedin.com/in/matt-mitcho-9a522b2"
+      },
+      {
+        "name": "Mark Pimentel",
+        "role": "Founder; Scientific Advisor",
+        "linkedin_url": "https://www.linkedin.com/in/mark-pimentel-39b859132"
+      }
+    ],
+    "head_of_data": {
+      "name": "Luis Pimentel",
+      "role": "Head of Business Analytics",
+      "linkedin_url": "https://www.linkedin.com/in/luis-pimentel-9a5964129"
+    }
+  },
+  {
+    "company": "Chariot Giving Inc.",
+    "url": "www.givechariot.com",
+    "decision_makers": [
+      {
+        "name": "Salomon Serfati",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/salomon-serfati-8ba836112"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Vaulted Deep",
+    "url": "vaulteddeep.com",
+    "decision_makers": [
+      {
+        "name": "Julia Reichelstein",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/jreichelstein/"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Resbiotic",
+    "url": "resbiotic.com",
+    "decision_makers": [
+      {
+        "name": "C. Vivek Lal, MD, FAAP",
+        "role": "Founder & CEO; President",
+        "linkedin_url": "https://www.linkedin.com/in/c-vivek-lal-md-faap-20183913"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Paperstack Inc.",
+    "url": "www.paperstack.ai",
+    "decision_makers": [
+      {
+        "name": "Assel Beglinova",
+        "role": "Co-founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/asselbeglinova"
+      },
+      {
+        "name": "Vadim Lidich",
+        "role": "Co-founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/vadimlidich"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "ProKeep, Inc.",
+    "url": "www.prokeep.com",
+    "decision_makers": [
+      {
+        "name": "Jack Carrere",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/jack-carrere"
+      },
+      {
+        "name": "Mark Kanof",
+        "role": "Co-Founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/mark-kanof-7082a45/"
+      }
+    ],
+    "head_of_data": {
+      "name": "Steven Brezina",
+      "role": "Principal Engineer, Data & AI Platform",
+      "linkedin_url": "https://www.linkedin.com/in/steven-brezina-6821b3114"
+    }
+  },
+  {
+    "company": "Mesh Intelligent Technologies (Pieces)",
+    "url": "pieces.app",
+    "decision_makers": [
+      {
+        "name": "Tsavo Knott",
+        "role": "Co-founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/tsavoknott"
+      },
+      {
+        "name": "Mark Widman",
+        "role": "CTO & Co-founder",
+        "linkedin_url": "https://www.linkedin.com/in/mark-widman"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "TireTutor",
+    "url": "https://tiretutor.com",
+    "decision_makers": [
+      {
+        "name": "Jason Abrahams",
+        "role": "Founder and CEO",
+        "linkedin_url": "https://www.linkedin.com/in/jasonbabrahams"
+      }
+    ],
+    "head_of_data": {
+      "name": "Jeremy Aubin",
+      "role": "Head of Data",
+      "linkedin_url": "https://www.linkedin.com/in/jeremyaubin1"
+    }
+  },
+  {
+    "company": "Plainsight Technologies",
+    "url": "plainsight.ai",
+    "decision_makers": [
+      {
+        "name": "Jonathan Simkins",
+        "role": "CEO",
+        "linkedin_url": "https://www.linkedin.com/in/jonathan-simkins-7b723b70"
+      },
+      {
+        "name": "Venky Renganathan",
+        "role": "CTO",
+        "linkedin_url": "https://www.linkedin.com/in/venky-renganathan-886251"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Win Win Tech Inc. (WA+TS)",
+    "url": "www.getwats.com",
+    "decision_makers": [
+      {
+        "name": "Laura Rosenshine",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/laura-rosenshine/"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Omni Analytics, Inc.",
+    "url": "omni.co",
+    "decision_makers": [
+      {
+        "name": "Colin Zima",
+        "role": "Co-founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/colinzima"
+      },
+      {
+        "name": "Chris Merrick",
+        "role": "Co-founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/merrickchristopher"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Cycle Labs",
+    "url": "https://cyclelabs.io",
+    "decision_makers": [
+      {
+        "name": "David Stephans",
+        "role": "CEO",
+        "linkedin_url": "https://www.linkedin.com/in/david-stephans-71897973"
+      },
+      {
+        "name": "Josh Owen",
+        "role": "Founder, President & Executive Chairman",
+        "linkedin_url": "https://www.linkedin.com/in/joshhowen"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "TransVoyant",
+    "url": "https://transvoyant.com",
+    "decision_makers": [
+      {
+        "name": "Dennis Groseclose",
+        "role": "Co-founder; CEO & President",
+        "linkedin_url": "https://www.linkedin.com/in/dennis-groseclose-71827417"
+      },
+      {
+        "name": "Tim Fleischer",
+        "role": "Co-founder; Chairman",
+        "linkedin_url": "https://www.linkedin.com/in/tim-fleischer-67868b1"
+      },
+      {
+        "name": "Shari Shahidi",
+        "role": "Chief Technology Officer",
+        "linkedin_url": "https://www.linkedin.com/in/shari-shahidi"
+      },
+      {
+        "name": "Allison Griffin Fowler",
+        "role": "Chief Product Officer",
+        "linkedin_url": "https://www.linkedin.com/in/allison-griffin-fowler-bb049947"
+      }
+    ],
+    "head_of_data": {
+      "name": "Tom\u00e1s Rodr\u00edguez, Jr.",
+      "role": "Director, Data Science",
+      "linkedin_url": "https://www.linkedin.com/in/tomasrdzjr"
+    }
+  },
+  {
+    "company": "MedRhythms, Inc.",
+    "url": "medrhythms.com",
+    "decision_makers": [
+      {
+        "name": "Larry Jasinski",
+        "role": "CEO",
+        "linkedin_url": "https://www.linkedin.com/in/larry-jasinski-81424833"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "LOCATEAI INC.",
+    "url": "locate.ai",
+    "decision_makers": [
+      {
+        "name": "Joe Lee",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/joeleelocate"
+      },
+      {
+        "name": "Stephen Quinonez",
+        "role": "Co-Founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/stephenquinonez"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Synthetaic, Inc. (RAIC Labs)",
+    "url": "synthetaic.com",
+    "decision_makers": [
+      {
+        "name": "Corey Jaskolski",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/coreyjaskolski"
+      },
+      {
+        "name": "Brian Goodwin",
+        "role": "CTO",
+        "linkedin_url": "https://www.linkedin.com/in/brian-goodwin-618bb31b"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Partium, Inc.",
+    "url": "www.partium.io",
+    "decision_makers": [
+      {
+        "name": "Philipp Descovich",
+        "role": "CEO",
+        "linkedin_url": "https://at.linkedin.com/in/philipp-descovich-99a23610"
+      },
+      {
+        "name": "Tomasz Adamek",
+        "role": "CTO",
+        "linkedin_url": "https://es.linkedin.com/in/tadamek"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Mealogic, Inc.",
+    "url": "www.mealogic.com",
+    "decision_makers": [
+      {
+        "name": "Derek Mansfield",
+        "role": "CEO",
+        "linkedin_url": "https://www.linkedin.com/in/derek-mansfield-8806b3"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Automotus",
+    "url": "www.automotus.ai",
+    "decision_makers": [
+      {
+        "name": "Jordan Justus",
+        "role": "Co-founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/jordan-justus"
+      },
+      {
+        "name": "Harris Lummis",
+        "role": "Co-founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/lummish"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Community Capital Tech",
+    "url": "www.communityct.com",
+    "decision_makers": [
+      {
+        "name": "Garrett Smith",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/garrett-smith-8b82032"
+      },
+      {
+        "name": "Rod Saunders",
+        "role": "CTO",
+        "linkedin_url": "https://www.linkedin.com/in/rodsaunders"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Rapid Liquid Print Co.",
+    "url": "www.rapidliquidprint.com",
+    "decision_makers": [
+      {
+        "name": "Schendy Kernizan",
+        "role": "CEO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/schendy-g-k-725a0325"
+      },
+      {
+        "name": "Bj\u00f8rn Sparrman",
+        "role": "CTO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/bj%C3%B8rn-sparrman-2407a7191"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Elo Health",
+    "url": "https://elo.health",
+    "decision_makers": [
+      {
+        "name": "Ari Tulla",
+        "role": "CEO & Co-founder",
+        "linkedin_url": "https://www.linkedin.com/in/aritulla"
+      },
+      {
+        "name": "Tapio Tolvanen",
+        "role": "CTO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/tapiotolvanen"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "RESPONDOLOGY HOLDINGS",
+    "url": "respondology.com",
+    "decision_makers": [
+      {
+        "name": "Erik Swain",
+        "role": "CEO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/erikswain"
+      }
+    ],
+    "head_of_data": {
+      "name": "Kevin Christensen",
+      "role": "Head of Respondology Labs (Data Intelligence)",
+      "linkedin_url": "https://www.linkedin.com/in/kevinrchristensen"
+    }
+  },
+  {
+    "company": "ChiroHD, Inc.",
+    "url": "www.chirohd.com",
+    "decision_makers": [
+      {
+        "name": "Gabriel Doty",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/gabrieldoty"
+      },
+      {
+        "name": "Luke Doty",
+        "role": "Co-Founder, President & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/luke-doty-02560790"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Sound Commerce Tech",
+    "url": "soundcommerce.com",
+    "decision_makers": [
+      {
+        "name": "Eric Best",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/ericbest"
+      },
+      {
+        "name": "Jared Stiff",
+        "role": "Co-Founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/jaredstiff"
+      }
+    ],
+    "head_of_data": {
+      "name": "Rachel Workman",
+      "role": "VP, Data Strategy",
+      "linkedin_url": "https://www.linkedin.com/in/rachelanneworkman"
+    }
+  },
+  {
+    "company": "Centari, Inc.",
+    "url": "www.centari.com",
+    "decision_makers": [
+      {
+        "name": "Kevin Walker",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/kpwalker1"
+      },
+      {
+        "name": "Junyuan Lau",
+        "role": "CTO",
+        "linkedin_url": "https://www.linkedin.com/in/junyuanlau"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "HuLoop Automation, Inc.",
+    "url": "huloop.ai",
+    "decision_makers": [
+      {
+        "name": "Todd P. Michaud",
+        "role": "Founder, President & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/tpmichaud"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "ScriptDrop, Inc.",
+    "url": "scriptdrop.co",
+    "decision_makers": [
+      {
+        "name": "Amanda Epp",
+        "role": "CEO",
+        "linkedin_url": "https://www.linkedin.com/in/amanda-way"
+      },
+      {
+        "name": "Mike Berkman",
+        "role": "CTO",
+        "linkedin_url": "https://www.linkedin.com/in/berkmanmd"
+      }
+    ],
+    "head_of_data": {
+      "name": "Amanda Mason",
+      "role": "VP of Data & Analytics",
+      "linkedin_url": "https://www.linkedin.com/in/amandamasonoh"
+    }
+  },
+  {
+    "company": "Cuebox Inc.",
+    "url": "getcuebox.com",
+    "decision_makers": [
+      {
+        "name": "Christina Pan",
+        "role": "CEO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/christina-pan-469a7319"
+      },
+      {
+        "name": "Hanna Lee",
+        "role": "Co-Founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/hanna-lee-2299628a"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Wishroll",
+    "url": "https://wishroll.co",
+    "decision_makers": [
+      {
+        "name": "Fai Nur",
+        "role": "CEO & Co-founder",
+        "linkedin_url": "https://www.linkedin.com/in/fainur/"
+      },
+      {
+        "name": "William Laroche",
+        "role": "CTO",
+        "linkedin_url": "https://ca.linkedin.com/in/william-laroche/en"
+      },
+      {
+        "name": "Pritesh Kadiwala",
+        "role": "Co-founder",
+        "linkedin_url": "https://www.linkedin.com/in/pritesh-kadiwala-2972abbb/"
+      },
+      {
+        "name": "Great Okonkwo",
+        "role": "Co-founder",
+        "linkedin_url": "https://www.linkedin.com/in/greatokonkwo/"
+      },
+      {
+        "name": "Blossom Okonkwo",
+        "role": "Co-founder & CMO",
+        "linkedin_url": "https://ng.linkedin.com/in/blossom-okonkwo"
+      },
+      {
+        "name": "Amit Bhatnagar",
+        "role": "Co-founder",
+        "linkedin_url": "https://in.linkedin.com/in/amitbhatnagar1"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "YourSix Inc.",
+    "url": "yoursix.com",
+    "decision_makers": [
+      {
+        "name": "Eric Styles",
+        "role": "CEO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/eric-styles"
+      },
+      {
+        "name": "Jacob Hengel",
+        "role": "CTO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/jacob-hengel-8b071137"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Granola, Inc.",
+    "url": "https://www.granola.ai/",
+    "decision_makers": [
+      {
+        "name": "Christopher Pedregal",
+        "role": "CEO & Co-Founder",
+        "linkedin_url": "https://uk.linkedin.com/in/pedregal"
+      },
+      {
+        "name": "Vas Zhovner",
+        "role": "CTO",
+        "linkedin_url": "https://uk.linkedin.com/in/vas-zhovner"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "The Financial Gym",
+    "url": "https://financialgym.com",
+    "decision_makers": [
+      {
+        "name": "Shannon McLay",
+        "role": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/shannon-mclay-8b24539"
+      },
+      {
+        "name": "Ian Rosen",
+        "role": "CEO, Parent Company Connective",
+        "linkedin_url": "https://www.linkedin.com/in/ianrosen"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Barti Software, Inc.",
+    "url": "www.barti.com",
+    "decision_makers": [
+      {
+        "name": "Colton Calandrella",
+        "role": "Co-founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/coltoncalandrella"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Atomwise Inc.",
+    "url": "www.atomwise.com",
+    "decision_makers": [
+      {
+        "name": "Steve Worland",
+        "role": "CEO",
+        "linkedin_url": "https://www.linkedin.com/in/steve-worland-b134994"
+      },
+      {
+        "name": "Izhar Wallach",
+        "role": "Co-Founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/izhar-wallach-a0403811"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "OXOS MEDICAL, INC.",
+    "url": "oxos.com",
+    "decision_makers": [
+      {
+        "name": "Evan Ruff",
+        "role": "CEO & Co-founder",
+        "linkedin_url": "https://www.linkedin.com/in/evan-ruff"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Manifold Biotechnologies",
+    "url": "manifold.bio",
+    "decision_makers": [
+      {
+        "name": "Gleb Kuznetsov",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/gleb-kuznetsov"
+      },
+      {
+        "name": "Pierce Ogden",
+        "role": "Co-Founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/pierce-ogden-470b3836"
+      }
+    ],
+    "head_of_data": {
+      "name": "Aleksey Yeremenko",
+      "role": "Director of Data Engineering",
+      "linkedin_url": "https://www.linkedin.com/in/aleksey-yeremenko-1data"
+    }
+  },
+  {
+    "company": "Wyebot, Inc.",
+    "url": "www.wyebot.com",
+    "decision_makers": [
+      {
+        "name": "Roger Sands",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/roger-sands-4142673"
+      },
+      {
+        "name": "Anil Gupta",
+        "role": "Co-Founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/guptaanil"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Sevaro",
+    "url": "https://sevaro.com",
+    "decision_makers": [
+      {
+        "name": "Rajiv Narula, MD",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/rajnarula"
+      },
+      {
+        "name": "Carl Dugart",
+        "role": "CTO",
+        "linkedin_url": "https://www.linkedin.com/in/carl-dugart"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "OncoNano Medicine, Inc.",
+    "url": "onconano.com",
+    "decision_makers": [
+      {
+        "name": "Kartik Krishnan",
+        "role": "CEO",
+        "linkedin_url": "https://www.linkedin.com/in/kartik-krishnan-01"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Benchmark Space Systems",
+    "url": "https://benchmarkspacesystems.com",
+    "decision_makers": [
+      {
+        "name": "Wesley Grove",
+        "role": "CEO",
+        "linkedin_url": "https://www.linkedin.com/in/wesley-grove-b679b182"
+      },
+      {
+        "name": "Ryan McDevitt",
+        "role": "Founder; CTO",
+        "linkedin_url": "https://www.linkedin.com/in/ryan-mcdevitt-b217b668"
+      },
+      {
+        "name": "Matthew Shea",
+        "role": "Co-Founder; Chief Product Officer",
+        "linkedin_url": "https://www.linkedin.com/in/matthew-shea-3851347"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "NovaData Solutions Inc.",
+    "url": "novadata-solutions.com",
+    "decision_makers": [
+      {
+        "name": "Anthony Troy",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/anthony-troy-892187"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Soapbox",
+    "url": "https://www.soap-bx.com",
+    "decision_makers": [
+      {
+        "name": "Danny He",
+        "role": "Founder and CEO",
+        "linkedin_url": "https://www.linkedin.com/in/dannyhe"
+      },
+      {
+        "name": "Jordan Phillips",
+        "role": "Co-Founder and CTO",
+        "linkedin_url": null
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Payflow Digital Inc.",
+    "url": "www.payflow.es",
+    "decision_makers": [
+      {
+        "name": "Beno\u00eet Menardo",
+        "role": "Co-founder & CTO",
+        "linkedin_url": "https://es.linkedin.com/in/benoitmenardo/en"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Materna Medical Inc.",
+    "url": "www.maternamedical.com",
+    "decision_makers": [
+      {
+        "name": "Tracy MacNeal",
+        "role": "CEO & President",
+        "linkedin_url": "https://www.linkedin.com/in/tracymacneal"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Evolon Technology, Inc.",
+    "url": "www.evolontech.com",
+    "decision_makers": [
+      {
+        "name": "Tom Galvin",
+        "role": "President & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/thomasgalvin"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Welligence Inc.",
+    "url": "www.welligence.com",
+    "decision_makers": [
+      {
+        "name": "Ross Lubetkin",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/ross-lubetkin-welligence/"
+      },
+      {
+        "name": "Sam Rastin",
+        "role": "CTO",
+        "linkedin_url": "https://www.linkedin.com/in/samrastin"
+      }
+    ],
+    "head_of_data": {
+      "name": "Nitish Goyal",
+      "role": "Head of Data Science",
+      "linkedin_url": "https://www.linkedin.com/in/ngoyal2"
+    }
+  },
+  {
+    "company": "Halliday International Inc.",
+    "url": "halliday.xyz",
+    "decision_makers": [
+      {
+        "name": "Griffin Dunaif",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/griffindunaif"
+      },
+      {
+        "name": "Akshay Malhotra",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/akshayma"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Goldfinch Technology Co",
+    "url": "goldfinch.finance",
+    "decision_makers": [
+      {
+        "name": "Blake West",
+        "role": "Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/blakewest87"
+      },
+      {
+        "name": "Mike Sall",
+        "role": "Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/michaelsall"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "LiveKit Inc.",
+    "url": "livekit.io",
+    "decision_makers": [
+      {
+        "name": "Russ D\u2019Sa",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/russelldsa"
+      },
+      {
+        "name": "David Zhao",
+        "role": "Co-Founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/davidzhao"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Equity Shift Holdings, Inc.",
+    "url": "www.equityshift.com",
+    "decision_makers": [
+      {
+        "name": "Tom Gordon",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/togordon"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Augmodo",
+    "url": "https://www.augmodo.com",
+    "decision_makers": [
+      {
+        "name": "Ross Finman",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/ross-finman-a0618512"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "College Consortium, Inc. (Acadeum)",
+    "url": "www.acadeum.com",
+    "decision_makers": [
+      {
+        "name": "Richard Keaveny",
+        "role": "CEO",
+        "linkedin_url": "https://www.linkedin.com/in/richard-keaveny"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "RxCap",
+    "url": "https://www.rxcap.com",
+    "decision_makers": [
+      {
+        "name": "Sreeram Ramakrishnan, PhD",
+        "role": "Co-founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/sreeramramakrishnan"
+      },
+      {
+        "name": "David MacVittie",
+        "role": "Co-founder",
+        "linkedin_url": "https://www.linkedin.com/in/davidmacvittie"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Cytrellis Biosystems, Inc.",
+    "url": "cytrellis.com",
+    "decision_makers": [
+      {
+        "name": "Dr. Denise Dajles",
+        "role": "President & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/denise-dajles-76533918"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "CIRCA Scientific, Inc.",
+    "url": "www.circascientific.com",
+    "decision_makers": [
+      {
+        "name": "Lee Geist",
+        "role": "President & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/lee-geist-902b4122"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "OS1 Holdings, Inc.",
+    "url": "bettersooner.com",
+    "decision_makers": [
+      {
+        "name": "Dustin Taylor",
+        "role": "President & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/dustin-taylor-03b08135"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "H2Ok Innovations Inc.",
+    "url": "http://runlaminar.com",
+    "decision_makers": [
+      {
+        "name": "Annie Lu",
+        "role": "CEO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/annie-l-7ba794117"
+      },
+      {
+        "name": "David Lu",
+        "role": "CTO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/davidyanglu"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "QbDVision, Inc.",
+    "url": "www.qbdvision.com",
+    "decision_makers": [
+      {
+        "name": "Yash Sabharwal, PhD",
+        "role": "President, CEO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/yashsabharwal"
+      },
+      {
+        "name": "Ryan Shillington",
+        "role": "CTO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/ryanshillington"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Carbitex",
+    "url": "https://carbitex.com",
+    "decision_makers": [
+      {
+        "name": "Junus Khan",
+        "role": "Founder & President",
+        "linkedin_url": "https://www.linkedin.com/in/junuskhan"
+      },
+      {
+        "name": "Rob Langstaff",
+        "role": "CEO",
+        "linkedin_url": "https://www.linkedin.com/in/rob-langstaff-3aa9034"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Litesport",
+    "url": "litesport.com",
+    "decision_makers": [
+      {
+        "name": "Jeffrey Morin",
+        "role": "Co-founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/jwmorin"
+      },
+      {
+        "name": "Daniel Snow",
+        "role": "CTO",
+        "linkedin_url": "https://www.linkedin.com/in/snowdaniel"
+      },
+      {
+        "name": "Todd Dagres",
+        "role": "Co-founder; Chairman & Founder",
+        "linkedin_url": "https://www.linkedin.com/in/todd-dagres-8231a818"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "GrowthX",
+    "url": "growthx.ai",
+    "decision_makers": [
+      {
+        "name": "Marcel Santilli",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/marcelsantilli"
+      },
+      {
+        "name": "Daniel Lopes",
+        "role": "Co-Founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/danielvlopes"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Pleural Dynamics, Inc.",
+    "url": "www.pleuraldynamics.com",
+    "decision_makers": [
+      {
+        "name": "Martin Mayse",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/martinmayse"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "FaceFirst (Gatekeeper Systems)",
+    "url": "https://facefirst.com",
+    "decision_makers": [
+      {
+        "name": "Robert Harling",
+        "role": "CEO",
+        "linkedin_url": "https://www.linkedin.com/in/robertharling"
+      },
+      {
+        "name": "Dara Riordan",
+        "role": "President, FaceFirst",
+        "linkedin_url": "https://www.linkedin.com/in/darariordan"
+      },
+      {
+        "name": "Joe Rosenkrantz",
+        "role": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/joerosenkrantz"
+      },
+      {
+        "name": "Mike O\u2019Rourke",
+        "role": "Chief Technology Officer",
+        "linkedin_url": "https://www.linkedin.com/in/mike-orourke-82b387384"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Nixtla Inc.",
+    "url": "nixtla.io",
+    "decision_makers": [
+      {
+        "name": "Max Mergenthaler Canseco",
+        "role": "CEO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/mergenthaler"
+      },
+      {
+        "name": "Han Wang",
+        "role": "CTO",
+        "linkedin_url": "https://www.linkedin.com/in/han-wang-97272610"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Reimagine Care, Inc.",
+    "url": "www.reimaginecare.com",
+    "decision_makers": [
+      {
+        "name": "Dan Nardi",
+        "role": "CEO",
+        "linkedin_url": "https://www.linkedin.com/in/danjnardi"
+      }
+    ],
+    "head_of_data": {
+      "name": "Kyle Lee",
+      "role": "VP, Analytics & Reporting",
+      "linkedin_url": "https://www.linkedin.com/in/kyleleechicago"
+    }
+  },
+  {
+    "company": "DealerCue Automotive Corp. (Vincue)",
+    "url": "vincue.com",
+    "decision_makers": [
+      {
+        "name": "Chris Hoke",
+        "role": "Founder, CEO & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/fletchergrant"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Reflex Careers, Inc.",
+    "url": "www.workreflex.com",
+    "decision_makers": [
+      {
+        "name": "Mike Meyers",
+        "role": "CEO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/meyersmj"
+      },
+      {
+        "name": "Chelsea Valentine",
+        "role": "CTO",
+        "linkedin_url": "https://www.linkedin.com/in/chelsea--valentine"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "UserFirst Software (LeanLaw)",
+    "url": "www.leanlaw.co",
+    "decision_makers": [
+      {
+        "name": "Jonathon Fishman",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/jonathonfishman"
+      },
+      {
+        "name": "Fred Willerup",
+        "role": "Founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/willerup"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Infracost Inc.",
+    "url": "infracost.io",
+    "decision_makers": [
+      {
+        "name": "Hassan Khajeh-Hosseini",
+        "role": "CEO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/hassanhosseini"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "NAVV Systems, Inc.",
+    "url": "www.navvtrack.com",
+    "decision_makers": [
+      {
+        "name": "Daniel Siegal, MD",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/daniel-siegal-md"
+      },
+      {
+        "name": "Eugene Baxter",
+        "role": "CTO",
+        "linkedin_url": "https://www.linkedin.com/in/eugene-baxter"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Atmo, Inc.",
+    "url": "www.atmo.ai",
+    "decision_makers": [
+      {
+        "name": "Alex Levy",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/levyalex"
+      },
+      {
+        "name": "Johan Mathe",
+        "role": "Co-Founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/johmathe"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Posterity Health, Inc.",
+    "url": "posterityhealth.com",
+    "decision_makers": [
+      {
+        "name": "Pamela Pure",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/pampure"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Remote Care Partners",
+    "url": "remotecarepartners.com",
+    "decision_makers": [
+      {
+        "name": "Gregg Smith",
+        "role": "Chief Executive Officer & Founder",
+        "linkedin_url": "https://www.linkedin.com/in/gregg-smith-5370754"
+      },
+      {
+        "name": "James Gledhill",
+        "role": "Chief Technology Officer & Founder",
+        "linkedin_url": "https://www.linkedin.com/in/jamesgledhill"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Rally Inc.",
+    "url": "www.rallyuxr.com",
+    "decision_makers": [
+      {
+        "name": "Oren Friedman",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/oren-friedman"
+      },
+      {
+        "name": "Alec Robins",
+        "role": "Co-Founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/alecrobins"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Channel Medsystems",
+    "url": "channelmedsystems.com",
+    "decision_makers": [
+      {
+        "name": "Nelson Whistance",
+        "role": "President & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/nelson-whistance-5b145117"
+      },
+      {
+        "name": "Daniel Burnett",
+        "role": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/daniel-burnett-4732771"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Get Sojo, Inc.",
+    "url": "getsojo.com",
+    "decision_makers": [
+      {
+        "name": "Maxwell Farley",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/maxwell-farley-b4305b2a"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Anomaly Insights, Inc.",
+    "url": "www.findanomaly.com",
+    "decision_makers": [
+      {
+        "name": "Mike Desjadon",
+        "role": "CEO",
+        "linkedin_url": "https://www.linkedin.com/in/mike-desjadon-4a0a21a/"
+      },
+      {
+        "name": "Jon Hoffman",
+        "role": "Co-Founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/jonhoffman/"
+      }
+    ],
+    "head_of_data": {
+      "name": "Leonard Apeltsin, PhD",
+      "role": "Head of Data Science",
+      "linkedin_url": "https://www.linkedin.com/in/leonard-apeltsin-baaa732/"
+    }
+  },
+  {
+    "company": "System Initiative",
+    "url": "https://www.systeminit.com",
+    "decision_makers": [
+      {
+        "name": "Adam Jacob",
+        "role": "CEO and Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/adamjacob"
+      },
+      {
+        "name": "Alex Ethier",
+        "role": "President, Chief Product Officer & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/alex-ethier"
+      },
+      {
+        "name": "Mahir Lupinacci",
+        "role": "COO and Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/mahirlupinacci"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Rimsys",
+    "url": "rimsys.io",
+    "decision_makers": [
+      {
+        "name": "James Gianoutsos",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/jwgianoutsos"
+      },
+      {
+        "name": "Brad Ryba",
+        "role": "Co-Founder & Board Member",
+        "linkedin_url": "https://www.linkedin.com/in/bradryba"
+      },
+      {
+        "name": "Jeff Burk",
+        "role": "CTO",
+        "linkedin_url": "https://www.linkedin.com/in/jeffreyburk"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "TracerDX, Inc.",
+    "url": "www.tracerbio.com",
+    "decision_makers": [
+      {
+        "name": "Mark Kaganovich",
+        "role": "CEO & Founder",
+        "linkedin_url": "https://www.linkedin.com/in/markkaganovich"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Prelude Corp",
+    "url": "preludesecurity.com",
+    "decision_makers": [
+      {
+        "name": "Spencer Thompson",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://ca.linkedin.com/in/sthomps"
+      },
+      {
+        "name": "David Hunt",
+        "role": "Co-Founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/david-hunt-b72864200"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "UbiQD, Inc.",
+    "url": "www.ubiqd.com",
+    "decision_makers": [
+      {
+        "name": "Hunter McDaniel, PhD",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/hunter-mcdaniel-4563a735"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "PreciTaste Inc.",
+    "url": "precitaste.com",
+    "decision_makers": [
+      {
+        "name": "Dr. Ingo Stork-Wersborg",
+        "role": "CEO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/ingo-stork-5779784"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Eclipse Bio",
+    "url": "eclipsebio.com",
+    "decision_makers": [
+      {
+        "name": "Peter Chu, PhD",
+        "role": "Co-Founder, CEO, Chairman",
+        "linkedin_url": "https://www.linkedin.com/in/pchu77/"
+      },
+      {
+        "name": "Alex Shishkin, PhD",
+        "role": "Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/alexander-shishkin-86b42a36/"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Plenna Holding Ltd",
+    "url": "www.soyplenna.com",
+    "decision_makers": [
+      {
+        "name": "Giovanna Abramo",
+        "role": "Co-Founder & Co-CEO",
+        "linkedin_url": "https://mx.linkedin.com/in/giovanna-abramo-3a463553"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Cormint Data Systems, Inc.",
+    "url": "www.cormint.com",
+    "decision_makers": [
+      {
+        "name": "Jamie McAvity",
+        "role": "President & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/jamie-mcavity-697b1533"
+      },
+      {
+        "name": "Westley Shaw",
+        "role": "Co-Founder & EVP of Technology",
+        "linkedin_url": "https://www.linkedin.com/in/westleyshaw"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Flash Scientific Technology",
+    "url": "flashweather.ai",
+    "decision_makers": [
+      {
+        "name": "Jason Deese",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/jason-deese-1162a1164"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "PreciseDx, Inc.",
+    "url": "precisedx.ai",
+    "decision_makers": [
+      {
+        "name": "Eric Converse",
+        "role": "CEO",
+        "linkedin_url": "https://www.linkedin.com/in/eric-t-converse/"
+      }
+    ],
+    "head_of_data": {
+      "name": "Vijay Yadav",
+      "role": "VP, AI & Technology",
+      "linkedin_url": "https://www.linkedin.com/in/vijay-yadav-ds"
+    }
+  },
+  {
+    "company": "MuukTest",
+    "url": "muuktest.com",
+    "decision_makers": [
+      {
+        "name": "Ivan Barajas Vargas",
+        "role": "CEO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/ivanbarajasvargas"
+      },
+      {
+        "name": "Renan Ugalde",
+        "role": "CTO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/renan-ugalde"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Gestalt Diagnostics, Inc.",
+    "url": "gestaltdiagnostics.com",
+    "decision_makers": [
+      {
+        "name": "Dan Roark",
+        "role": "CEO",
+        "linkedin_url": "https://www.linkedin.com/in/dan-roark-665723"
+      },
+      {
+        "name": "Lisa-Jean Clifford",
+        "role": "President",
+        "linkedin_url": "https://www.linkedin.com/in/lisa-jean-clifford-30188b"
+      },
+      {
+        "name": "Brian Napora",
+        "role": "CTO",
+        "linkedin_url": "https://www.linkedin.com/in/brian-napora-16262632"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Spectrum Effect",
+    "url": "https://spectrumeffect.com",
+    "decision_makers": [
+      {
+        "name": "Charles Immendorf",
+        "role": "Co-Founder and CEO",
+        "linkedin_url": "https://www.linkedin.com/in/charles-immendorf-38520618"
+      },
+      {
+        "name": "Shaun McCarthy",
+        "role": "President & CRO",
+        "linkedin_url": "https://www.linkedin.com/in/shaunmccarthy"
+      },
+      {
+        "name": "Eamonn Gormley",
+        "role": "CTO",
+        "linkedin_url": "https://www.linkedin.com/in/eamonn-gormley-ba72a1b"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Populus Media, Inc.",
+    "url": "populus-media.com",
+    "decision_makers": [
+      {
+        "name": "Paul Theisen",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/pjtheisen"
+      },
+      {
+        "name": "Satnam Gandhi",
+        "role": "Co-Founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/satnamgandhi"
+      }
+    ],
+    "head_of_data": {
+      "name": "Lee Daniels",
+      "role": "VP, Data & Analytics",
+      "linkedin_url": "https://www.linkedin.com/in/lee-daniels"
+    }
+  },
+  {
+    "company": "Cargobot, Inc",
+    "url": "cargobot.io",
+    "decision_makers": [
+      {
+        "name": "Fernando Correa",
+        "role": "CEO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/correafer"
+      },
+      {
+        "name": "Gustavo Medina",
+        "role": "CIO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/gustavomed"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Benefitbay Inc.",
+    "url": "www.benefitbay.com",
+    "decision_makers": [
+      {
+        "name": "Brandy Thompson",
+        "role": "CEO & Founder",
+        "linkedin_url": "https://www.linkedin.com/in/brandy-thompson-24389536"
+      },
+      {
+        "name": "Bill Dudley",
+        "role": "VP of Software Engineering",
+        "linkedin_url": "https://www.linkedin.com/in/billdudley"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "BusRight",
+    "url": "https://busright.com",
+    "decision_makers": [
+      {
+        "name": "Keith Corso",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/keith-corso"
+      },
+      {
+        "name": "Chris Fischer",
+        "role": "Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/chrisdfischer/"
+      },
+      {
+        "name": "Phil Dunn",
+        "role": "Co-Founder & Chief Product Officer",
+        "linkedin_url": "https://www.linkedin.com/in/phil-dunn-3040609/"
+      },
+      {
+        "name": "Evan Eddleston",
+        "role": "Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/evan-eddleston"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Compact Membrane Systems",
+    "url": "compactmembrane.com",
+    "decision_makers": [
+      {
+        "name": "Erica Nemser",
+        "role": "CEO",
+        "linkedin_url": "https://www.linkedin.com/in/ericanemser"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Teleo",
+    "url": "https://teleo.ai",
+    "decision_makers": [
+      {
+        "name": "Vinay Shet",
+        "role": "Co-founder and CEO",
+        "linkedin_url": "https://www.linkedin.com/in/vinayshet"
+      },
+      {
+        "name": "Rom (Romain) Clement",
+        "role": "Co-founder and CTO",
+        "linkedin_url": "https://www.linkedin.com/in/romclement"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "KitoTech Medical",
+    "url": "kitotechmedical.com",
+    "decision_makers": [
+      {
+        "name": "Larry Hayes",
+        "role": "President & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/larry-hayes-76464b17"
+      },
+      {
+        "name": "Ronald Berenson",
+        "role": "Founder; Executive Chairman",
+        "linkedin_url": "https://www.linkedin.com/in/ronaldberenson"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Comfy",
+    "url": "comfy.org",
+    "decision_makers": [
+      {
+        "name": "Yoland Yan",
+        "role": "Co-founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/yolandyan"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Simplifya Holdings, Inc.",
+    "url": "simplifya.com",
+    "decision_makers": [
+      {
+        "name": "Marion Mariathasan",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/marionmariathasan"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Q Bio, Inc.",
+    "url": "www.q.bio",
+    "decision_makers": [
+      {
+        "name": "Jeffrey Brewer",
+        "role": "CEO",
+        "linkedin_url": "https://www.linkedin.com/in/brewerjeffrey"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Cube Exchange",
+    "url": "cube.exchange",
+    "decision_makers": [
+      {
+        "name": "Bartosz Lipi\u0144ski",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/bartoszlipinski"
+      },
+      {
+        "name": "Larry Wu",
+        "role": "Co-Founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/lwus"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Arvist",
+    "url": "https://arvist.ai",
+    "decision_makers": [
+      {
+        "name": "Nilay Parikh",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/parikhnilay"
+      },
+      {
+        "name": "Bazyl Horsey",
+        "role": "CTO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/bazyl-horsey-075506139"
+      }
+    ],
+    "head_of_data": {
+      "name": "Alec Groff",
+      "role": "Head of AI",
+      "linkedin_url": "https://www.linkedin.com/in/alecjgroff"
+    }
+  },
+  {
+    "company": "Panome Bio Inc.",
+    "url": "www.panomebio.com",
+    "decision_makers": [
+      {
+        "name": "Edward Weinstein",
+        "role": "Co-founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/edward-weinstein-415b555"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "MayBern Solutions, Inc.",
+    "url": "www.maybern.com",
+    "decision_makers": [
+      {
+        "name": "Ross Mechanic",
+        "role": "Co-founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/rossmechanic/"
+      },
+      {
+        "name": "Ashwin Raghu",
+        "role": "Co-founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/ashwin-raghu-315b4b9/"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Precision Epigenomics",
+    "url": "precision-epigenomics.com",
+    "decision_makers": [
+      {
+        "name": "Mark Nelson, PhD",
+        "role": "CEO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/mark-nelson-86833750"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Zed Industries, Inc.",
+    "url": "zed.dev",
+    "decision_makers": [
+      {
+        "name": "Nathan Sobo",
+        "role": "CEO & Co-founder",
+        "linkedin_url": "https://www.linkedin.com/in/nathan-sobo-92b46720"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Digital Health Strategies",
+    "url": "digitalhealthstrategies.com",
+    "decision_makers": [
+      {
+        "name": "Arif Bandali",
+        "role": "CTO",
+        "linkedin_url": "https://www.linkedin.com/in/arif-bandali"
+      }
+    ],
+    "head_of_data": {
+      "name": "Paul Matsui",
+      "role": "Chief Data Officer",
+      "linkedin_url": "https://www.linkedin.com/in/paulmatsui"
+    }
+  },
+  {
+    "company": "Green Theme Technologies",
+    "url": "http://www.empel.green",
+    "decision_makers": [
+      {
+        "name": "Tom Lopez",
+        "role": "CEO",
+        "linkedin_url": "https://www.linkedin.com/in/thomas-lopez-1296b15b"
+      },
+      {
+        "name": "Vasav Sahni, Ph.D.",
+        "role": "CTO",
+        "linkedin_url": "https://www.linkedin.com/in/vasavsahni"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "ElectraMet",
+    "url": "electramet.com",
+    "decision_makers": [
+      {
+        "name": "Keith Jacobs",
+        "role": "CEO",
+        "linkedin_url": "https://www.linkedin.com/in/keith-jacobs-1927b17"
+      },
+      {
+        "name": "James Landon",
+        "role": "CTO; Co-founder",
+        "linkedin_url": "https://www.linkedin.com/in/james-landon-7aab7712"
+      },
+      {
+        "name": "Cameron Lippert",
+        "role": "Co-founder; Chief Innovation Officer",
+        "linkedin_url": "https://www.linkedin.com/in/cameron-lippert-033a5719"
+      }
+    ],
+    "head_of_data": {
+      "name": "Glen Wernersbach",
+      "role": "CDA (Data/Architecture Executive)",
+      "linkedin_url": "https://www.linkedin.com/in/glenwernersbach"
+    }
+  },
+  {
+    "company": "BrightPlan Group, Inc.",
+    "url": "www.brightplan.com",
+    "decision_makers": [
+      {
+        "name": "Marthin De Beer",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/marthindebeer"
+      },
+      {
+        "name": "Huey Vo",
+        "role": "CTO",
+        "linkedin_url": "https://www.linkedin.com/in/hvo408"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "IRIS AI Technologies, Inc.",
+    "url": "heyiris.ai",
+    "decision_makers": [
+      {
+        "name": "Ben Hills",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/benjaminhills"
+      },
+      {
+        "name": "Tzahi E.",
+        "role": "Co-founder, Chief Technology & Product Officer",
+        "linkedin_url": "https://www.linkedin.com/in/efrati"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Transition Bio",
+    "url": "https://transitionbio.com",
+    "decision_makers": [
+      {
+        "name": "Gregory Miller",
+        "role": "CEO",
+        "linkedin_url": "https://www.linkedin.com/in/gregorymiller"
+      },
+      {
+        "name": "Tuomas Knowles",
+        "role": "Scientific Co-Founder and CTO",
+        "linkedin_url": "https://uk.linkedin.com/in/tuomas-knowles-411565153"
+      },
+      {
+        "name": "Martin Kulander",
+        "role": "COO",
+        "linkedin_url": "https://uk.linkedin.com/in/martin-kulander-3863908a"
+      },
+      {
+        "name": "Shilpi Arora",
+        "role": "Co-President and CSO",
+        "linkedin_url": "https://www.linkedin.com/in/shilpi-arora-93402b5"
+      },
+      {
+        "name": "Kelly Martin",
+        "role": "Co-Founder and Executive Chairman",
+        "linkedin_url": "https://www.linkedin.com/in/kelly-martin-b39a341b5"
+      },
+      {
+        "name": "Samuel Cohen",
+        "role": "Co-Founder",
+        "linkedin_url": "https://uk.linkedin.com/in/samuel-cohen-3b301816"
+      }
+    ],
+    "head_of_data": {
+      "name": "Kadi Liis Saar",
+      "role": "Head of Computational Discovery Platform",
+      "linkedin_url": "https://uk.linkedin.com/in/kadi-liis-saar-0589634a"
+    }
+  },
+  {
+    "company": "Tango Tango, Inc.",
+    "url": "tangotango.net",
+    "decision_makers": [
+      {
+        "name": "Trey Sharp",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/trey-sharp-17b63213"
+      },
+      {
+        "name": "Richard Walker",
+        "role": "Founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/richardswalker"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "encoord Inc.",
+    "url": "www.encoord.com",
+    "decision_makers": [
+      {
+        "name": "Dr. Carlo Brancucci",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/brancucci"
+      },
+      {
+        "name": "Dr. Kwabena Addo Pambour",
+        "role": "Co-Founder & CTO",
+        "linkedin_url": "https://de.linkedin.com/in/kpambour/en"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "SurrealDB",
+    "url": "https://surrealdb.com",
+    "decision_makers": [
+      {
+        "name": "Tobie Morgan Hitchcock",
+        "role": "Co-Founder and CEO",
+        "linkedin_url": "https://uk.linkedin.com/in/tobiemorganhitchcock"
+      },
+      {
+        "name": "Jaime Morgan Hitchcock",
+        "role": "Co-Founder and COO",
+        "linkedin_url": "https://uk.linkedin.com/in/jaimemorganhitchcock"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Efficient Capital Labs Inc.",
+    "url": "www.ecaplabs.com",
+    "decision_makers": [
+      {
+        "name": "Kaustav Das",
+        "role": "CEO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/kaustav-das-b6a86166"
+      }
+    ],
+    "head_of_data": {
+      "name": "Amit Kesarwani",
+      "role": "Head of Risk & Data Science",
+      "linkedin_url": "https://www.linkedin.com/in/amit-kesarwani-25904626"
+    }
+  },
+  {
+    "company": "Cube Security (CUBE3 AI)",
+    "url": "cube3.ai",
+    "decision_makers": [
+      {
+        "name": "Einaras Gravrock",
+        "role": "CEO & Founder",
+        "linkedin_url": "https://www.linkedin.com/in/techceocalifornia"
+      },
+      {
+        "name": "Jonathan Anastasia",
+        "role": "President",
+        "linkedin_url": "https://www.linkedin.com/in/jonathan-anastasia-28061383"
+      }
+    ],
+    "head_of_data": {
+      "name": "Tetiana Khoroshun",
+      "role": "Head of Data Science",
+      "linkedin_url": "https://ua.linkedin.com/in/t-khoroshun"
+    }
+  },
+  {
+    "company": "Pear Commerce, Inc.",
+    "url": "www.pearcommerce.com",
+    "decision_makers": [
+      {
+        "name": "Eric Martell",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/eric-martell"
+      },
+      {
+        "name": "Alex Wyler",
+        "role": "Founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/alexwyler"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Blockspaces, Inc.",
+    "url": "www.blockspaces.com",
+    "decision_makers": [
+      {
+        "name": "Rosa Shores",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/rosa-shores"
+      },
+      {
+        "name": "Gabe Higgins",
+        "role": "Co-Founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/gabehiggins"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "CREtelligent Inc.",
+    "url": "www.cretelligent.com",
+    "decision_makers": [
+      {
+        "name": "Anthony Romano",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/anthony-romano-4ba153186"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Sutra Fitness, Inc. (Arketa)",
+    "url": "www.arketa.com",
+    "decision_makers": [
+      {
+        "name": "Rachel Lea Fishman",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/rachelleafishman"
+      },
+      {
+        "name": "Josh Archer",
+        "role": "Co-Founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/joshuarcher"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Halda, Inc.",
+    "url": "halda.ai",
+    "decision_makers": [
+      {
+        "name": "Lance Hydrick",
+        "role": "CEO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/lancehydrick"
+      },
+      {
+        "name": "Spencer Peterson",
+        "role": "Co-Founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/spencer-peterson-1286757"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Prosper Health, Inc.",
+    "url": "www.prosperhealth.io",
+    "decision_makers": [
+      {
+        "name": "Ben Schecter",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/ben-schecter-650292b3"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Kinetic Inc",
+    "url": "kineticcomp.com",
+    "decision_makers": [
+      {
+        "name": "Adam Price",
+        "role": "CEO",
+        "linkedin_url": "https://www.linkedin.com/in/adamjprice"
+      },
+      {
+        "name": "Aditya Bansal",
+        "role": "Co-founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/adibansal"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "PowerPollen, Inc.",
+    "url": "powerpollen.com",
+    "decision_makers": [
+      {
+        "name": "Carl Cox",
+        "role": "CEO",
+        "linkedin_url": "https://www.linkedin.com/in/carl-cox-388a0010/"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "BlackBoiler, Inc.",
+    "url": "www.blackboiler.com",
+    "decision_makers": [
+      {
+        "name": "Daniel Broderick",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/daniel-broderick-blackboiler"
+      },
+      {
+        "name": "Jonathan Herr",
+        "role": "Founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/jonathan-herr-1940112"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "KODEX, INC.",
+    "url": "www.kodexglobal.com",
+    "decision_makers": [
+      {
+        "name": "Matt Donahue",
+        "role": "CEO & Co-founder",
+        "linkedin_url": "https://www.linkedin.com/in/matt-donahue-9bb60188"
+      },
+      {
+        "name": "Danny Mendoza",
+        "role": "CTO & Founding Engineer",
+        "linkedin_url": "https://www.linkedin.com/in/~dmendoza"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Movandi",
+    "url": "movandi.com",
+    "decision_makers": [
+      {
+        "name": "Maryam Rofougaran",
+        "role": "CEO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/maryam-rofougaran-411aa84"
+      },
+      {
+        "name": "Ahmadreza \u201cReza\u201d Rofougaran",
+        "role": "Founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/reza-rofougaran"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Voyage AI Innovations",
+    "url": "www.voyageai.com",
+    "decision_makers": [
+      {
+        "name": "Tengyu Ma",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/tengyuma"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Swing Therapeutics, Inc.",
+    "url": "swingtherapeutics.com",
+    "decision_makers": [
+      {
+        "name": "Mike Rosenbluth, Ph.D.",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/mikerosenbluth"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Beacon AI, Inc.",
+    "url": "www.beaconai.co",
+    "decision_makers": [
+      {
+        "name": "Matt Cox",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/mattbcox"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Koda Health, Inc.",
+    "url": "www.kodahealthcare.com",
+    "decision_makers": [
+      {
+        "name": "Tatiana Fofanova, PhD",
+        "role": "CEO & Founder",
+        "linkedin_url": "https://www.linkedin.com/in/fofanova"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "CytoTronics",
+    "url": "https://cytotronics.com",
+    "decision_makers": [
+      {
+        "name": "Jeffrey Abbott, PhD",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/jeffrey-abbott"
+      },
+      {
+        "name": "Vince (Wenxuan) Wu",
+        "role": "Co-Founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/vincewwu"
+      },
+      {
+        "name": "Duane Sword",
+        "role": "Co-Founder & Chief Business Officer",
+        "linkedin_url": "https://www.linkedin.com/in/duanesword"
+      }
+    ],
+    "head_of_data": {
+      "name": "Shalaka Chitale, Ph.D.",
+      "role": "Head of Data Science & Biology",
+      "linkedin_url": "https://www.linkedin.com/in/shalaka-chitale-phd"
+    }
+  },
+  {
+    "company": "Yoodli, Inc.",
+    "url": "yoodli.ai",
+    "decision_makers": [
+      {
+        "name": "Varun Puri",
+        "role": "CEO & Co-founder",
+        "linkedin_url": "https://www.linkedin.com/in/varun-puri001"
+      },
+      {
+        "name": "Derek Sessions",
+        "role": "CTO",
+        "linkedin_url": "https://www.linkedin.com/in/derekbsessions"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Cardio Flow, Inc.",
+    "url": "cardioflow.net",
+    "decision_makers": [
+      {
+        "name": "Gary M. Petrucci",
+        "role": "Chairman, Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/gary-petrucci-330909132/"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Rippl",
+    "url": "ripplcare.com",
+    "decision_makers": [
+      {
+        "name": "Kris Engskov",
+        "role": "Co-founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/kris-engskov-315b4"
+      },
+      {
+        "name": "Joe Chung",
+        "role": "CTO & Head of AI",
+        "linkedin_url": "https://www.linkedin.com/in/josephtchung"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Proof Technology, Inc.",
+    "url": "www.proofserve.com",
+    "decision_makers": [
+      {
+        "name": "Marty Wachocki",
+        "role": "COO & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/martywachocki"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Molecule Software, Inc.",
+    "url": "www.molecule.io",
+    "decision_makers": [
+      {
+        "name": "Sameer Soleja",
+        "role": "Founder, President & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/ssoleja"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Ekotrope, Inc.",
+    "url": "www.ekotrope.com",
+    "decision_makers": [
+      {
+        "name": "Ziv Rozenblum",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/ziv-rozenblum-1641031"
+      }
+    ],
+    "head_of_data": {
+      "name": "Jack Edmondson",
+      "role": "Lead Data Analyst",
+      "linkedin_url": "https://www.linkedin.com/in/jack-a-edmondson"
+    }
+  },
+  {
+    "company": "ViaVia",
+    "url": "https://www.viavia.live",
+    "decision_makers": [
+      {
+        "name": "Sixuan Li",
+        "role": "CEO & Co-founder",
+        "linkedin_url": "https://www.linkedin.com/in/sixuan-li-69a171155"
+      },
+      {
+        "name": "Anna Volpi",
+        "role": "GM, Italy & Co-founder",
+        "linkedin_url": "https://it.linkedin.com/in/anna-volpi-b021b422b"
+      },
+      {
+        "name": "Luigi Caccia",
+        "role": "Chief Supply Chain Officer & Co-founder",
+        "linkedin_url": "https://it.linkedin.com/in/luigi-caccia-8a591546"
+      },
+      {
+        "name": "Andrea Pasinetti",
+        "role": "Head of Engineering & Co-founder",
+        "linkedin_url": "https://www.linkedin.com/in/andrea-pasinetti"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "BluStream Corp",
+    "url": "blustream.io",
+    "decision_makers": [
+      {
+        "name": "Ken Rapp",
+        "role": "CEO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/ken-rapp-b922766"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "TACKLE AI, LLC",
+    "url": "tackle.ai",
+    "decision_makers": [
+      {
+        "name": "Sergio Suarez Jr.",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/sergiosuarezjr"
+      },
+      {
+        "name": "Eric Ginder",
+        "role": "CTO",
+        "linkedin_url": "https://www.linkedin.com/in/ericginder"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "AstroForge, Inc.",
+    "url": "www.astroforge.com",
+    "decision_makers": [
+      {
+        "name": "Matt Gialich",
+        "role": "CEO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/matthew-gialich"
+      },
+      {
+        "name": "Jose Acain",
+        "role": "Co-Founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/joseacain"
+      },
+      {
+        "name": "Robyn Ringuette",
+        "role": "President",
+        "linkedin_url": "https://www.linkedin.com/in/robyn-ringuette"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Station A, Inc.",
+    "url": "stationa.com",
+    "decision_makers": [
+      {
+        "name": "Kevin Berkemeyer",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/kevjberk"
+      }
+    ],
+    "head_of_data": {
+      "name": "Sam Steyer",
+      "role": "Co-Founder & Head of Analytics",
+      "linkedin_url": "https://www.linkedin.com/in/sam-steyer"
+    }
+  },
+  {
+    "company": "Torpago",
+    "url": "https://torpago.com",
+    "decision_makers": [
+      {
+        "name": "Brent Jackson",
+        "role": "CEO & Founder",
+        "linkedin_url": "https://www.linkedin.com/in/brent-jackson"
+      },
+      {
+        "name": "Lei Wang",
+        "role": "CTO",
+        "linkedin_url": "https://www.linkedin.com/in/leiw"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Parsyl Inc.",
+    "url": "www.parsyl.com",
+    "decision_makers": [
+      {
+        "name": "Ben Hubbard",
+        "role": "CEO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/ben-hubbard-8888ab59"
+      },
+      {
+        "name": "Mike Linton",
+        "role": "CTO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/mike-linton-0143705"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Lava.ai, Inc.",
+    "url": "www.lava.ai",
+    "decision_makers": [
+      {
+        "name": "Wen Miao",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/wen-miao-0a1116"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "CarePredict, Inc.",
+    "url": "carepredict.com",
+    "decision_makers": [
+      {
+        "name": "Satish Movva",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/satish-movva-697a45257"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "RunSafe Security",
+    "url": "https://runsafesecurity.com",
+    "decision_makers": [
+      {
+        "name": "Joseph M. Saunders",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/joesaunders"
+      },
+      {
+        "name": "Shane Fry",
+        "role": "CTO",
+        "linkedin_url": "https://www.linkedin.com/in/shanefry"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "PAXAFE",
+    "url": "paxafe.com",
+    "decision_makers": [
+      {
+        "name": "Ilya Preston",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/ilyapreston"
+      },
+      {
+        "name": "Ashok Seetharam",
+        "role": "Co-Founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/ashokseetharam"
+      }
+    ],
+    "head_of_data": {
+      "name": "Sahil Sangwan",
+      "role": "Head of Data",
+      "linkedin_url": "https://www.linkedin.com/in/sahil-sangwan-013824146"
+    }
+  },
+  {
+    "company": "Aidium",
+    "url": "https://thinkaidium.com",
+    "decision_makers": [
+      {
+        "name": "Josh Glantz",
+        "role": "CEO \u2014 Lendware / Aidium assets",
+        "linkedin_url": "https://www.linkedin.com/in/joshglantz"
+      },
+      {
+        "name": "Spencer Dusebout",
+        "role": "Founder; former CEO",
+        "linkedin_url": "https://www.linkedin.com/in/spencer-dusebout"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Plume Network, Inc.",
+    "url": "plume.org",
+    "decision_makers": [
+      {
+        "name": "Chris Yin",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/chrisyin"
+      },
+      {
+        "name": "Eugene Y. Q. Shen",
+        "role": "Co-Founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/eyqs"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "STRIVVE, INC.",
+    "url": "strivve.com",
+    "decision_makers": [
+      {
+        "name": "Chris Hopen",
+        "role": "CEO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/chris-hopen-299b3314"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "SAVI",
+    "url": "https://getsavi.com",
+    "decision_makers": [
+      {
+        "name": "Brock Weeks",
+        "role": "CEO & Co-founder",
+        "linkedin_url": "https://www.linkedin.com/in/brock-weeks-7b7471a"
+      },
+      {
+        "name": "Tim Riser",
+        "role": "CTO",
+        "linkedin_url": "https://www.linkedin.com/in/timriser"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Aperio Systems, Inc.",
+    "url": "www.aperio.ai",
+    "decision_makers": [
+      {
+        "name": "Jonas Hellgren",
+        "role": "CEO",
+        "linkedin_url": "https://www.linkedin.com/in/jonas-hellgren-3b4691201"
+      },
+      {
+        "name": "Daniel Berger",
+        "role": "Co-Founder",
+        "linkedin_url": "https://uk.linkedin.com/in/daniel-berger-6503aa"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Radial Health, Inc.",
+    "url": "www.meetradial.com",
+    "decision_makers": [
+      {
+        "name": "John Capecelatro",
+        "role": "CEO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/johncapecelatro"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "SnippetSentry",
+    "url": "https://snippetsentry.com",
+    "decision_makers": [
+      {
+        "name": "Eddie Green",
+        "role": "CEO",
+        "linkedin_url": "https://www.linkedin.com/in/eddie-green-48a2502b5"
+      },
+      {
+        "name": "Ujwal Setlur",
+        "role": "CTO",
+        "linkedin_url": "https://www.linkedin.com/in/ujwalsetlur"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Agility, Inc. (Agility CMS)",
+    "url": "www.agilitycms.com",
+    "decision_makers": [
+      {
+        "name": "Jon Voigt",
+        "role": "CEO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/jonvoigt"
+      },
+      {
+        "name": "Joel Varty",
+        "role": "CTO",
+        "linkedin_url": "https://www.linkedin.com/in/joelvarty"
+      },
+      {
+        "name": "Jina Zohori",
+        "role": "President",
+        "linkedin_url": "https://www.linkedin.com/in/jina-zohori"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Long Angle, Inc.",
+    "url": "longangle.com",
+    "decision_makers": [
+      {
+        "name": "Matt Shechtman",
+        "role": "CEO",
+        "linkedin_url": "https://www.linkedin.com/in/msheck"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "INDICIO, PBC",
+    "url": "indicio.tech",
+    "decision_makers": [
+      {
+        "name": "Heather C. Dahl",
+        "role": "Co-founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/heathercdahl/"
+      },
+      {
+        "name": "Ken Ebert",
+        "role": "Co-founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/ken-ebert-08a9b85/"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Anyplace",
+    "url": "https://www.anyplace.com",
+    "decision_makers": [
+      {
+        "name": "Steve Satoru Naito",
+        "role": "Co-founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/snaito"
+      },
+      {
+        "name": "Kouichi Tanaka",
+        "role": "Co-founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/kouichitanaka"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Carbon Arc Corp",
+    "url": "carbonarc.co",
+    "decision_makers": [
+      {
+        "name": "Kirk McKeown",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/kirk-mckeown-400607214"
+      },
+      {
+        "name": "Amir Haghighat",
+        "role": "CTO",
+        "linkedin_url": "https://www.linkedin.com/in/amirhaghighat"
+      }
+    ],
+    "head_of_data": {
+      "name": "Mike McVey",
+      "role": "Head of Data Architecture",
+      "linkedin_url": "https://www.linkedin.com/in/mike-mcvey-6764842"
+    }
+  },
+  {
+    "company": "Anetac, Inc.",
+    "url": "www.anetac.com",
+    "decision_makers": [
+      {
+        "name": "Timothy Eades",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/tieades/"
+      },
+      {
+        "name": "Yi Sun",
+        "role": "Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/yi-s-4ab1703/"
+      },
+      {
+        "name": "Meng Xu",
+        "role": "Co-Founder & Chief Architect",
+        "linkedin_url": "https://www.linkedin.com/in/meng-xu-564a721/"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Cloud Range",
+    "url": "cloudrangecyber.com",
+    "decision_makers": [
+      {
+        "name": "Debbie Gordon",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/degordon"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Ceek Women's Health, Inc.",
+    "url": "ceekwomenshealth.com",
+    "decision_makers": [
+      {
+        "name": "Fahti Khosrowshahi",
+        "role": "Founder, President & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/fahti-khosrowshahi-5223265"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "CONCEAL, INC.",
+    "url": "www.conceal.io",
+    "decision_makers": [
+      {
+        "name": "Eric Cornelius",
+        "role": "CEO",
+        "linkedin_url": "https://www.linkedin.com/in/eric-cornelius-7b08b85"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "MediView",
+    "url": "mediview.com",
+    "decision_makers": [
+      {
+        "name": "Mina Fahim",
+        "role": "CEO & President",
+        "linkedin_url": "https://www.linkedin.com/in/mina-fahim-59b1776a"
+      },
+      {
+        "name": "Glenn Raudins",
+        "role": "CTO",
+        "linkedin_url": "https://www.linkedin.com/in/glennraudins"
+      },
+      {
+        "name": "Adam E. Rakestraw, J.D.",
+        "role": "Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/adam-e-rakestraw-j-d-8165279"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Contlo Inc.",
+    "url": "contlo.com",
+    "decision_makers": [
+      {
+        "name": "Ishaan Bhola",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/ishaanbhola"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "BlastPoint, Inc.",
+    "url": "www.blastpoint.com",
+    "decision_makers": [
+      {
+        "name": "Alison Alvarez",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/asalvarez"
+      },
+      {
+        "name": "Tomer Borenstein",
+        "role": "Co-Founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/tomer-borenstein-619648aa"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Modjoul, Inc.",
+    "url": "www.modjoul.com",
+    "decision_makers": [
+      {
+        "name": "Eric Martinez",
+        "role": "CEO & Founder",
+        "linkedin_url": "https://www.linkedin.com/in/rericmartinez"
+      }
+    ],
+    "head_of_data": {
+      "name": "Praveen Nedumpully, PhD",
+      "role": "Head of Data Science",
+      "linkedin_url": "https://www.linkedin.com/in/praveenng"
+    }
+  },
+  {
+    "company": "Ursa Space Systems Inc.",
+    "url": "www.ursaspace.com",
+    "decision_makers": [
+      {
+        "name": "Adam Maher",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/adam-maher-17969731"
+      }
+    ],
+    "head_of_data": {
+      "name": "Eric Cote",
+      "role": "Director of Data & Analytics Services",
+      "linkedin_url": "https://www.linkedin.com/in/ericrcote"
+    }
+  },
+  {
+    "company": "SWAN VALLEY MEDICAL, INC",
+    "url": "swanvalleymedical.com",
+    "decision_makers": [
+      {
+        "name": "Ronald E. Zook",
+        "role": "President & CEO, Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/ronald-zook-7073a085"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "123 See, Inc. (dba Eyebot)",
+    "url": "www.eyebot.tech",
+    "decision_makers": [
+      {
+        "name": "Matthias Hofmann",
+        "role": "Co-founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/mchofmann"
+      },
+      {
+        "name": "Jack Moldave",
+        "role": "Co-founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/jackmoldave"
+      },
+      {
+        "name": "Tim Fern",
+        "role": "Chief Commercial Officer",
+        "linkedin_url": "https://www.linkedin.com/in/timfern"
+      },
+      {
+        "name": "Alexander Martin, OD, FAAO",
+        "role": "Chief Medical Officer",
+        "linkedin_url": "https://www.linkedin.com/in/alexander-martin-od-faao-2a609ab0"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "VitriVax, Inc.",
+    "url": "vitrivaxbio.com",
+    "decision_makers": [
+      {
+        "name": "Romulo Colindres, MD, MPH, MBA",
+        "role": "CEO",
+        "linkedin_url": "https://www.linkedin.com/in/romulo-colindres-md-mph-mba-66a87a2a"
+      },
+      {
+        "name": "Bryan Steadman, PhD",
+        "role": "CTO",
+        "linkedin_url": "https://www.linkedin.com/in/bryansteadman"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Streamline Software, Inc.",
+    "url": "www.getstreamline.com",
+    "decision_makers": [
+      {
+        "name": "Mac Clemmens",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/clemmens"
+      }
+    ],
+    "head_of_data": {
+      "name": "Annelise Spargo",
+      "role": "Marketing & DataOps",
+      "linkedin_url": "https://www.linkedin.com/in/annelise-spargo"
+    }
+  },
+  {
+    "company": "Vheda, Inc. (Vheda Health)",
+    "url": "vheda.com",
+    "decision_makers": [
+      {
+        "name": "Shameet Luhar",
+        "role": "CEO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/shameetluhar"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Cadenza Innovation",
+    "url": "https://cadenzainnovation.com",
+    "decision_makers": [
+      {
+        "name": "Christina Lampe-\u00d6nnerud",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/lampeonnerud"
+      },
+      {
+        "name": "Per Onnerud",
+        "role": "Chief Technology Officer",
+        "linkedin_url": "https://www.linkedin.com/in/per-onnerud-b517621"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "FYR Diagnostics",
+    "url": "https://fyr.bio",
+    "decision_makers": [
+      {
+        "name": "Chris Booth, Ph.D.",
+        "role": "CEO",
+        "linkedin_url": "https://www.linkedin.com/in/chris-booth-73607767"
+      },
+      {
+        "name": "Sarjubhai Patel, Ph.D.",
+        "role": "President & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/sarjubhai-patel-83134713"
+      },
+      {
+        "name": "Thomas Rau, Ph.D.",
+        "role": "Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/drtomrau"
+      },
+      {
+        "name": "Braxton Norwood, PhD",
+        "role": "Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/braxtonnorwood"
+      }
+    ],
+    "head_of_data": {
+      "name": "Claire Seibold, MS",
+      "role": "Director of Software and Data Analytics",
+      "linkedin_url": "https://www.linkedin.com/in/claire-seibold-66673366"
+    }
+  },
+  {
+    "company": "Nautilus Data Technologies",
+    "url": "nautilusdt.com",
+    "decision_makers": [
+      {
+        "name": "Robert Pfleging",
+        "role": "CEO & President",
+        "linkedin_url": "https://www.linkedin.com/in/robertpfleging"
+      },
+      {
+        "name": "Patrick Quirk",
+        "role": "CTO",
+        "linkedin_url": "https://www.linkedin.com/in/patrickjquirk"
+      },
+      {
+        "name": "Arnold Magcale",
+        "role": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/arnoldmagcale"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Mable Wholesale, Inc.",
+    "url": "meetmable.com",
+    "decision_makers": [
+      {
+        "name": "Arik Keller",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/arikkeller"
+      },
+      {
+        "name": "Eric Carlstrom",
+        "role": "Co-Founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/ericcarlstrom"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "MontyCloud, Inc.",
+    "url": "www.montycloud.com",
+    "decision_makers": [
+      {
+        "name": "Walter Rogers",
+        "role": "CEO",
+        "linkedin_url": "https://www.linkedin.com/in/walterrogers"
+      },
+      {
+        "name": "Kannan Parthasarathy",
+        "role": "Co-Founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/kannanparthasarathy"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Nammu Tech (SimplyAgree)",
+    "url": "www.simplyagree.com",
+    "decision_makers": [
+      {
+        "name": "Will Norton",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/williamknorton"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Provisio Medical Tech",
+    "url": "www.provisiomedical.com",
+    "decision_makers": [
+      {
+        "name": "S. Eric Ryan, M.D.",
+        "role": "Founder, President & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/s-eric-ryan-md"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Ace-Up Inc.",
+    "url": "www.aceup.com",
+    "decision_makers": [
+      {
+        "name": "Will Guillaume Foussier",
+        "role": "CEO & Founder",
+        "linkedin_url": "https://www.linkedin.com/in/will-guillaume-foussier"
+      },
+      {
+        "name": "Rohit Begani",
+        "role": "CTO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/rohitbegani"
+      },
+      {
+        "name": "Joshua Templeton",
+        "role": "Chief Revenue Officer",
+        "linkedin_url": "https://www.linkedin.com/in/joshuatempleton"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Medefy Health Inc.",
+    "url": "www.medefy.com",
+    "decision_makers": [
+      {
+        "name": "Matt Scovil",
+        "role": "Co-founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/matt-scovil-bbb4ba67"
+      },
+      {
+        "name": "Bryan Haardt",
+        "role": "CTO",
+        "linkedin_url": "https://www.linkedin.com/in/bryanhaardt"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Windborne Systems",
+    "url": "https://windbornesystems.com",
+    "decision_makers": [
+      {
+        "name": "John Dean",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/johnldean"
+      },
+      {
+        "name": "Dr. Andrey Sushko",
+        "role": "Founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/andrey-sushko"
+      },
+      {
+        "name": "Kai Marshland",
+        "role": "Founder & CPO",
+        "linkedin_url": "https://www.linkedin.com/in/kai-marshland-744497b6"
+      },
+      {
+        "name": "Paige Brocidiacono",
+        "role": "Co-founder; former CEO",
+        "linkedin_url": "https://www.linkedin.com/in/paige-brocidiacono"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Pharmazz, Inc.",
+    "url": "www.pharmazz.com",
+    "decision_makers": [
+      {
+        "name": "Anil Gulati",
+        "role": "Founder, Chairman & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/anil-gulati-86765822"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "VANQUA BIO, INC.",
+    "url": "www.vanquabio.com",
+    "decision_makers": [
+      {
+        "name": "Jim Sullivan, Ph.D.",
+        "role": "Co-founder & Chief Executive Officer",
+        "linkedin_url": "https://www.linkedin.com/in/jim-sullivan-92576411"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Upper Hand, Inc.",
+    "url": "www.upperhand.com",
+    "decision_makers": [
+      {
+        "name": "Michael Trilus",
+        "role": "Chief Technology Officer",
+        "linkedin_url": "https://www.linkedin.com/in/michael-trilus-3763a761"
+      }
+    ],
+    "head_of_data": {
+      "name": "Kevin MacCauley",
+      "role": "CEO & Head of Data",
+      "linkedin_url": "https://www.linkedin.com/in/kevinmaccauley"
+    }
+  },
+  {
+    "company": "Reality Defender, Inc.",
+    "url": "www.realitydefender.com",
+    "decision_makers": [
+      {
+        "name": "Ben Colman",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/benpcolman"
+      },
+      {
+        "name": "Alex Lisle",
+        "role": "CTO",
+        "linkedin_url": "https://www.linkedin.com/in/alexlisle"
+      }
+    ],
+    "head_of_data": {
+      "name": "Xiaoyuan Yang",
+      "role": "Director of Data",
+      "linkedin_url": "https://www.linkedin.com/in/xiaoyuan-yang-970bab8"
+    }
+  },
+  {
+    "company": "CrisprQC",
+    "url": "crisprqc.com",
+    "decision_makers": [
+      {
+        "name": "Ross Bundy",
+        "role": "President & CEO, Co-founder",
+        "linkedin_url": "https://www.linkedin.com/in/ross-bundy-36874310/"
+      },
+      {
+        "name": "Dr. Kiana Aran",
+        "role": "Co-founder, Scientific Advisor",
+        "linkedin_url": "https://www.linkedin.com/in/kiana-aran-19b1b040/"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Goodshuffle, Inc.",
+    "url": "www.goodshuffle.com",
+    "decision_makers": [
+      {
+        "name": "Andrew Garcia",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/andrew-garcia-0791966"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "SubBase",
+    "url": "https://www.subbase.io",
+    "decision_makers": [
+      {
+        "name": "Eric Helitzer",
+        "role": "Founder and CEO",
+        "linkedin_url": "https://www.linkedin.com/in/erichelitzer"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Inngest Inc.",
+    "url": "inngest.com",
+    "decision_makers": [
+      {
+        "name": "Tony Holdstock-Brown",
+        "role": "CEO & Founder",
+        "linkedin_url": "https://www.linkedin.com/in/tonyhb"
+      },
+      {
+        "name": "Dan Farrelly",
+        "role": "CTO & Founder",
+        "linkedin_url": "https://www.linkedin.com/in/djfarrelly"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "HOMEE, INC.",
+    "url": "homee.com",
+    "decision_makers": [
+      {
+        "name": "Doug Schaedler",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/doug-schaedler-6134a7"
+      },
+      {
+        "name": "Dave Theus",
+        "role": "Co-Founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/dtheus"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "Stax.ai, Inc.",
+    "url": "stax.ai",
+    "decision_makers": [
+      {
+        "name": "Narendran (Naru) Muraleedharan",
+        "role": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/naru95"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "EarliTec Diagnostics, Inc.",
+    "url": "earlipointhealth.com",
+    "decision_makers": [
+      {
+        "name": "Jamie Pagliaro",
+        "role": "President & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/jamiepagliaro"
+      }
+    ],
+    "head_of_data": {
+      "name": "Robin Sifre",
+      "role": "Data Science Manager",
+      "linkedin_url": "https://www.linkedin.com/in/robin-sifre"
+    }
+  },
+  {
+    "company": "Optimeos Life Sciences",
+    "url": "optimeos.com",
+    "decision_makers": [
+      {
+        "name": "Shahram Hejazi",
+        "role": "Founding CEO",
+        "linkedin_url": "https://www.linkedin.com/in/shahram-hejazi"
+      },
+      {
+        "name": "Robert (Bob) Prud'homme",
+        "role": "Co-founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/robert-k-prudhomme"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "ElectroTempo",
+    "url": "https://electrotempo.com",
+    "decision_makers": [
+      {
+        "name": "Dr. Yanzhi (Ann) Xu",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/yanzhi-ann-xu"
+      },
+      {
+        "name": "Patrick Finch",
+        "role": "Co-Founder & COO",
+        "linkedin_url": "https://www.linkedin.com/in/patrick-finch-091b2611"
+      },
+      {
+        "name": "Shanmugarasa \u201cShan\u201d Muhunthan",
+        "role": "Chief Technology Officer",
+        "linkedin_url": "https://www.linkedin.com/in/shanmugarasa-muhunthan-9b306159/"
+      },
+      {
+        "name": "Suresh Rajagopalan",
+        "role": "Chief Technology Officer / CTO Advisor",
+        "linkedin_url": "https://www.linkedin.com/in/suresh-rajagopalan-a3735013/"
+      }
+    ],
+    "head_of_data": null
+  },
+  {
+    "company": "TeamSense Inc.",
+    "url": "www.teamsense.com",
+    "decision_makers": [
+      {
+        "name": "Sheila Stafford",
+        "role": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/sheila-stafford-451976b"
+      }
+    ],
+    "head_of_data": null
+  }
+]
