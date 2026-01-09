@@ -132,6 +132,7 @@ const App = () => {
   const [hasHeadOfData, setHasHeadOfData] = useState(false)
   const [expandedLeads, setExpandedLeads] = useState({})
   const [copiedEmail, setCopiedEmail] = useState('')
+  const [emailModal, setEmailModal] = useState(null)
 
   const totalLeads = leads.length
   const decisionMakerTotal = leads.reduce(
@@ -196,6 +197,17 @@ const App = () => {
       console.error('Copy failed', error)
     }
   }
+
+  const onOpenEmailModal = (dm) => {
+    if (!dm?.email) return
+    setEmailModal({
+      name: dm.name,
+      role: dm.role,
+      email: dm.email,
+    })
+  }
+
+  const onCloseEmailModal = () => setEmailModal(null)
 
   return (
     <div className="min-h-screen px-6 pb-16 pt-12 text-ink sm:px-10 lg:px-16">
@@ -378,12 +390,12 @@ const App = () => {
                                 {truncateEmail(dm.email)}
                               </span>
                               <div className="flex items-center gap-2">
-                                <a
+                                <button
                                   className="rounded-full border border-slate-200 bg-white px-3 py-1 text-[11px] font-semibold text-slate-600 transition hover:text-ink"
-                                  href={`mailto:${dm.email}`}
+                                  onClick={() => onOpenEmailModal(dm)}
                                 >
                                   View
-                                </a>
+                                </button>
                                 <button
                                   className="rounded-full border border-slate-200 bg-white px-3 py-1 text-[11px] font-semibold text-slate-600 transition hover:text-ink"
                                   onClick={() => onCopyEmail(dm.email)}
@@ -435,6 +447,48 @@ const App = () => {
           </div>
         </footer>
       </div>
+      {emailModal && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-slate-900/40 px-4 backdrop-blur-sm">
+          <div className="w-full max-w-sm rounded-3xl border border-white/70 bg-white/90 p-6 shadow-glow">
+            <div className="flex items-start justify-between">
+              <div>
+                <p className="text-xs font-semibold uppercase tracking-[0.25em] text-slate-400">
+                  Email
+                </p>
+                <h3 className="mt-2 text-lg font-semibold text-ink">
+                  {emailModal.name}
+                </h3>
+                <p className="mt-1 text-sm text-slate-500">{emailModal.role}</p>
+              </div>
+              <button
+                className="rounded-full border border-slate-200 bg-white px-3 py-1 text-xs font-semibold text-slate-600 transition hover:text-ink"
+                onClick={onCloseEmailModal}
+              >
+                Close
+              </button>
+            </div>
+            <div className="mt-4 rounded-2xl border border-slate-200 bg-slate-50 px-4 py-3">
+              <div className="text-sm font-semibold text-ink">
+                {emailModal.email}
+              </div>
+            </div>
+            <div className="mt-4 flex items-center justify-end gap-2">
+              <button
+                className="rounded-full border border-slate-200 bg-white px-4 py-2 text-xs font-semibold text-slate-600 transition hover:text-ink"
+                onClick={() => onCopyEmail(emailModal.email)}
+              >
+                {copiedEmail === emailModal.email ? 'Copied' : 'Copy'}
+              </button>
+              <button
+                className="rounded-full bg-ink px-4 py-2 text-xs font-semibold text-white shadow-halo transition hover:-translate-y-0.5 hover:bg-slate-900"
+                onClick={onCloseEmailModal}
+              >
+                Done
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   )
 }
